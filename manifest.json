@@ -1,6 +1,6 @@
 {
   "clientVersion": "2.4.1",
-  "updatedAt": "2026-09-29T20:37:05.402Z",
+  "updatedAt": "2026-09-29T20:52:47.931Z",
   "minecraft": "1.21.11",
   "fabricLoader": null,
   "cleanDirs": [
@@ -9,8 +9,13 @@
   "news": [
     {
       "date": "2026-09-29",
-      "title": "Maxus Client 1.0",
-      "text": "Первый релиз лаунчера: автоустановка, проверка файлов при каждом запуске и менеджер аккаунтов."
+      "title": "Maxus Client 2.4.1",
+      "text": "Добавлен Discord RPC для отображения вашей активности в игре."
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Maxus Client 2.4",
+      "text": "Релиз лаунчера: автоустановка, проверка файлов при каждом запуске и менеджер аккаунтов."
     }
   ],
   "files": [
@@ -28,8 +33,8 @@
     },
     {
       "path": "mods/maxus-client-1.0.0.jar",
-      "sha256": "e1e07b0b933df5ecadf50a1660af8571227882d78c8db5c8874ab3613bc4d85b",
-      "size": 31288059,
+      "sha256": "e062b955014cd0d5a6d71c658aa5f895477adc6755e5c6a0dd32ad3066160482",
+      "size": 31289164,
       "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-1.0.0.jar"
     }
   ]
