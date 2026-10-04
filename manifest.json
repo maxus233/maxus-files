@@ -1,6 +1,6 @@
 {
   "clientVersion": "2.4.2",
-  "updatedAt": "2026-10-04T19:46:28.291Z",
+  "updatedAt": "2026-10-04T20:23:22.251Z",
   "minecraft": "1.21.11",
   "fabricLoader": null,
   "cleanDirs": [
@@ -8,7 +8,7 @@
   ],
   "news": [
     {
-      "date": "2026-01-04",
+      "date": "2026-10-04",
       "title": "Обновление клиента 2.4.2",
       "text": "Была добавлена озвучка для функции Sounds, правильное сохранение конфигов и оптимизация клиента."
     },
@@ -37,10 +37,10 @@
       "url": "https://maxus233.github.io/maxus-files/files/mods/fabric-language-kotlin-1.14.1-kotlin.2.4.20.jar"
     },
     {
-      "path": "mods/maxus-client-1.0.0.jar",
-      "sha256": "d4420d8899528b7a3bdba074c860241ccfc063125e1b660e27ffbdd93c2b9700",
-      "size": 28909791,
-      "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-1.0.0.jar"
+      "path": "mods/maxus-client-2.4.2.jar",
+      "sha256": "1c1e10b9213e7b142874f38ad7104b2a71d50019e69a793b465d8872369e09af",
+      "size": 28905168,
+      "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-2.4.2.jar"
     }
   ]
 }
