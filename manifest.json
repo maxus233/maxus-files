@@ -1,12 +1,17 @@
 {
-  "clientVersion": "2.4.2",
-  "updatedAt": "2026-10-04T20:23:22.251Z",
+  "clientVersion": "2.4.3",
+  "updatedAt": "2026-10-05T19:18:48.043Z",
   "minecraft": "1.21.11",
   "fabricLoader": null,
   "cleanDirs": [
     "mods"
   ],
   "news": [
+    {
+      "date": "2026-10-05",
+      "title": "Обновление клиента 2.4.3",
+      "text": "Исправлены баги и мелкие недочёты."
+    },
     {
       "date": "2026-10-04",
       "title": "Обновление клиента 2.4.2",
@@ -37,10 +42,10 @@
       "url": "https://maxus233.github.io/maxus-files/files/mods/fabric-language-kotlin-1.14.1-kotlin.2.4.20.jar"
     },
     {
-      "path": "mods/maxus-client-2.4.2.jar",
-      "sha256": "1c1e10b9213e7b142874f38ad7104b2a71d50019e69a793b465d8872369e09af",
-      "size": 28905168,
-      "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-2.4.2.jar"
+      "path": "mods/maxus-client-2.4.3.jar",
+      "sha256": "39ee0076ada2710b92331577ce00902cda003823d138747b24e7c9220f2ac118",
+      "size": 28905591,
+      "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-2.4.3.jar"
     }
   ]
 }
