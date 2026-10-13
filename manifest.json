@@ -1,6 +1,6 @@
 {
   "clientVersion": "2.4.3",
-  "updatedAt": "2026-10-12T16:26:30.888Z",
+  "updatedAt": "2026-10-13T15:45:42.607Z",
   "minecraft": "1.21.11",
   "fabricLoader": null,
   "cleanDirs": [
@@ -43,8 +43,8 @@
     },
     {
       "path": "mods/maxus-client-1.0.0.jar",
-      "sha256": "e6100ef3ba3ce5f4da82a4da1ba78bd6ed27561a441f01d98b779506f8e86b35",
-      "size": 93996236,
+      "sha256": "4af9e720f28ac7c71ce37cd04f71190589277af2f1da62b3931266c680c4d466",
+      "size": 94020702,
       "url": "https://maxus233.github.io/maxus-files/files/mods/maxus-client-1.0.0.jar"
     }
   ]
